@@ -1,0 +1,6 @@
+---
+title: test post
+date: 2017-09-06 12:47:00 -04:00
+---
+
+test post
